@@ -1,4 +1,9 @@
-#ANCHOR - Imports
+##############################
+### Impossible Language    ###
+### By Andrei Merryweather ###
+##############################
+
+# ANCHOR - Imports
 import string
 from python.tokenSymbols import makeTokenSymbols
 
